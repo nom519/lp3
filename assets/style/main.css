@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+html {
+    font-size: calc(10 * 100vw / 390);
+}
+
+@media (min-width:768px) {
+html {
+    font-size: calc(10 * 100vw / 1200);
+}
+}
+
+@media (min-width: 1200px) {
+html {
+    font-size: 62.5%; }
+}
+
+body {
+    font-family: "Noto Self JP",serif;
+    line-height: 1.75;
+    color: #000;
+}
+@media (min-width: 768px) {
+    body {
+    font-size: 1.6rem;
+    }
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* sp ヘッダー */
