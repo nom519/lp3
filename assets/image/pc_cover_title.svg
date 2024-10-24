@@ -1,0 +1,32 @@
+<svg id="グループ_5" data-name="グループ 5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="550" height="205" viewBox="0 0 550 205">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 5.474px;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+        text-anchor: middle;
+        font-family: "Noto Sans JP";
+      }
+
+      .cls-2 {
+        font-size: 2.086px;
+      }
+    </style>
+    <filter id="filter" x="221" y="88" width="550" height="186" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="11.667" in="SourceAlpha"/>
+      <feComposite result="composite"/>
+      <feComposite result="composite-2"/>
+      <feComposite result="composite-3"/>
+      <feFlood result="flood" flood-color="#fa7da3" flood-opacity="0.6"/>
+      <feComposite result="composite-4" operator="in" in2="composite-3"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <text id="全身脱毛" class="cls-1" transform="translate(274.144 138.859) scale(22.252 22.314)">全身脱毛</text>
+  <text id="_顔_VIO込_" data-name="（顔・VIO込）" class="cls-2" transform="translate(432.183 200.771) scale(17.214 17.262)">（顔・VIO込）</text>
+</svg>
