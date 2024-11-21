@@ -574,7 +574,7 @@ ul.cover-service__item-list li{
         line-height: 1.3;
         letter-spacing: .34rem;
         margin-top: .9rem;
-        transition: .4s;
+        transition: background .4s;
     }
 }
 .free-promotion__button-item {
