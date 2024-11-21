@@ -2,9 +2,8 @@ $(document).ready(function(){
 	$('.carousel').slick({
 		autoplay: false,
 		autoplaySpeed: 5000,
-        infinite: true,
+        infinite: false,
         slidesToShow: 3,
-        slidesToScroll: 0,
 		arrows: false,
 		dots: false,
 		fade: false,
@@ -12,6 +11,7 @@ $(document).ready(function(){
         responsive:[{
             breakpoint:768,
             settings:{
+                infinite: true,
                 centerMode: true,
                 centerPadding: '3.2rem',
                 slidesToShow: 1,
