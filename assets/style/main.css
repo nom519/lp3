@@ -1441,7 +1441,7 @@ ul.cover-service__item-list li{
 }
 .slick-dots {
     bottom: -4.1rem;
-    margin-left: .4rem;
+    padding-left: .4rem;
 }
 .slick-dots li {
     width: 3rem;
